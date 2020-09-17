@@ -51,7 +51,46 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/animated.headline.js",
+             "src/assets/js/aos.js",
+             "src/assets/js/bootstrap.min.js",
+             "src/assets/js/cells-by-column.js",
+             "src/assets/js/contact.js",
+             "src/assets/js/gmaps.min.js",
+             "src/assets/js/jquery.ajaxchimp.min.js",
+             "src/assets/js/jquery.counterup.min.js",
+             "src/assets/js/jquery.downCount.js",
+             "src/assets/js/jquery.easing.min.js",
+             "src/assets/js/jquery.form.js",
+             "src/assets/js/jquery.magnific-popup.js",
+             "src/assets/js/jquery.nice-select.min.js",
+             "src/assets/js/jquery.paroller.min.js",
+             "src/assets/js/jquery.scrollUp.min.js",
+             "src/assets/js/jquery.slicknav.min.js",
+             "src/assets/js/jquery.sticky.js",
+             "src/assets/js/jquery.validate.min.js",
+             "src/assets/js/jquery-1.12.1.min.js",
+             "src/assets/js/lightslider.min.js",
+             "src/assets/js/mail-script.js",
+             "src/assets/js/main.js",
+             "src/assets/js/mixitup.min.js",
+             "src/assets/js/one-page-nav-min.js",
+             "src/assets/js/owl.carousel.min.js",
+             "src/assets/js/plugins.js",
+             "src/assets/js/popper.min.js",
+             "src/assets/js/price_rangs.js",
+             "src/assets/js/slick.min.js",
+             "src/assets/js/stellar.js",
+             "src/assets/js/swiper.jquery.js",
+             "src/assets/js/swiper.min.js",
+             "src/assets/js/swiper_custom.js",
+             "src/assets/js/theme.js",
+             "src/assets/js/waypoints.min.js",
+             "src/assets/js/wow.min.js",
+              "src/assets/js/vendor/jquery-1.12.4.min.js",
+             "src/assets/js/vendor/modernizr-3.5.0.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -144,6 +183,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontend"
+    }
+  },
+  "defaultProject": "frontend",
+  "cli": {
+    "analytics": "ad6ad44e-490f-4eee-b4b1-a1b39df057b6"
+  }
 }
